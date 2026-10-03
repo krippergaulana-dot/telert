@@ -11,6 +11,7 @@ dependencies = [
     "beautifulsoup4>=4.9.0",
     "psutil>=5.9.0",
     "ping3>=4.0.0",
+    "slixmpp>=1.8.0",
 ]
 keywords = [
     "telegram",
@@ -22,6 +23,8 @@ keywords = [
     "pushover",
     "slack",
     "discord",
+    "xmpp",
+    "jabber",
     "microsoft-teams",
     "desktop-notifications",
     "monitoring",
